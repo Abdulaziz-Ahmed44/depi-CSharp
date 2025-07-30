@@ -1,0 +1,14 @@
+D:\New folder\MNF3_SWD5_S2\First_project_CSharp\bin\Debug\net9.0\First_project_CSharp.exe
+D:\New folder\MNF3_SWD5_S2\First_project_CSharp\bin\Debug\net9.0\First_project_CSharp.deps.json
+D:\New folder\MNF3_SWD5_S2\First_project_CSharp\bin\Debug\net9.0\First_project_CSharp.runtimeconfig.json
+D:\New folder\MNF3_SWD5_S2\First_project_CSharp\bin\Debug\net9.0\First_project_CSharp.dll
+D:\New folder\MNF3_SWD5_S2\First_project_CSharp\bin\Debug\net9.0\First_project_CSharp.pdb
+D:\New folder\MNF3_SWD5_S2\First_project_CSharp\obj\Debug\net9.0\First_project_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\MNF3_SWD5_S2\First_project_CSharp\obj\Debug\net9.0\First_project_CSharp.AssemblyInfoInputs.cache
+D:\New folder\MNF3_SWD5_S2\First_project_CSharp\obj\Debug\net9.0\First_project_CSharp.AssemblyInfo.cs
+D:\New folder\MNF3_SWD5_S2\First_project_CSharp\obj\Debug\net9.0\First_project_CSharp.csproj.CoreCompileInputs.cache
+D:\New folder\MNF3_SWD5_S2\First_project_CSharp\obj\Debug\net9.0\First_project_CSharp.dll
+D:\New folder\MNF3_SWD5_S2\First_project_CSharp\obj\Debug\net9.0\refint\First_project_CSharp.dll
+D:\New folder\MNF3_SWD5_S2\First_project_CSharp\obj\Debug\net9.0\First_project_CSharp.pdb
+D:\New folder\MNF3_SWD5_S2\First_project_CSharp\obj\Debug\net9.0\First_project_CSharp.genruntimeconfig.cache
+D:\New folder\MNF3_SWD5_S2\First_project_CSharp\obj\Debug\net9.0\ref\First_project_CSharp.dll
