@@ -1,0 +1,14 @@
+D:\New folder\MNF3_SWD5_S2\second_project_OOP\second_project_OOP\bin\Debug\net9.0\second_project_OOP.exe
+D:\New folder\MNF3_SWD5_S2\second_project_OOP\second_project_OOP\bin\Debug\net9.0\second_project_OOP.deps.json
+D:\New folder\MNF3_SWD5_S2\second_project_OOP\second_project_OOP\bin\Debug\net9.0\second_project_OOP.runtimeconfig.json
+D:\New folder\MNF3_SWD5_S2\second_project_OOP\second_project_OOP\bin\Debug\net9.0\second_project_OOP.dll
+D:\New folder\MNF3_SWD5_S2\second_project_OOP\second_project_OOP\bin\Debug\net9.0\second_project_OOP.pdb
+D:\New folder\MNF3_SWD5_S2\second_project_OOP\second_project_OOP\obj\Debug\net9.0\second_project_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\MNF3_SWD5_S2\second_project_OOP\second_project_OOP\obj\Debug\net9.0\second_project_OOP.AssemblyInfoInputs.cache
+D:\New folder\MNF3_SWD5_S2\second_project_OOP\second_project_OOP\obj\Debug\net9.0\second_project_OOP.AssemblyInfo.cs
+D:\New folder\MNF3_SWD5_S2\second_project_OOP\second_project_OOP\obj\Debug\net9.0\second_project_OOP.csproj.CoreCompileInputs.cache
+D:\New folder\MNF3_SWD5_S2\second_project_OOP\second_project_OOP\obj\Debug\net9.0\second_project_OOP.dll
+D:\New folder\MNF3_SWD5_S2\second_project_OOP\second_project_OOP\obj\Debug\net9.0\refint\second_project_OOP.dll
+D:\New folder\MNF3_SWD5_S2\second_project_OOP\second_project_OOP\obj\Debug\net9.0\second_project_OOP.pdb
+D:\New folder\MNF3_SWD5_S2\second_project_OOP\second_project_OOP\obj\Debug\net9.0\second_project_OOP.genruntimeconfig.cache
+D:\New folder\MNF3_SWD5_S2\second_project_OOP\second_project_OOP\obj\Debug\net9.0\ref\second_project_OOP.dll
