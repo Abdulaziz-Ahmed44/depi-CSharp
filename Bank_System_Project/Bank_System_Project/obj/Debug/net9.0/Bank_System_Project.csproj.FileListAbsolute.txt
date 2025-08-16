@@ -1,0 +1,14 @@
+D:\New folder\MNF3_SWD5_S2\Bank_System_Project\Bank_System_Project\bin\Debug\net9.0\Bank_System_Project.exe
+D:\New folder\MNF3_SWD5_S2\Bank_System_Project\Bank_System_Project\bin\Debug\net9.0\Bank_System_Project.deps.json
+D:\New folder\MNF3_SWD5_S2\Bank_System_Project\Bank_System_Project\bin\Debug\net9.0\Bank_System_Project.runtimeconfig.json
+D:\New folder\MNF3_SWD5_S2\Bank_System_Project\Bank_System_Project\bin\Debug\net9.0\Bank_System_Project.dll
+D:\New folder\MNF3_SWD5_S2\Bank_System_Project\Bank_System_Project\bin\Debug\net9.0\Bank_System_Project.pdb
+D:\New folder\MNF3_SWD5_S2\Bank_System_Project\Bank_System_Project\obj\Debug\net9.0\Bank_System_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\MNF3_SWD5_S2\Bank_System_Project\Bank_System_Project\obj\Debug\net9.0\Bank_System_Project.AssemblyInfoInputs.cache
+D:\New folder\MNF3_SWD5_S2\Bank_System_Project\Bank_System_Project\obj\Debug\net9.0\Bank_System_Project.AssemblyInfo.cs
+D:\New folder\MNF3_SWD5_S2\Bank_System_Project\Bank_System_Project\obj\Debug\net9.0\Bank_System_Project.csproj.CoreCompileInputs.cache
+D:\New folder\MNF3_SWD5_S2\Bank_System_Project\Bank_System_Project\obj\Debug\net9.0\Bank_System_Project.dll
+D:\New folder\MNF3_SWD5_S2\Bank_System_Project\Bank_System_Project\obj\Debug\net9.0\refint\Bank_System_Project.dll
+D:\New folder\MNF3_SWD5_S2\Bank_System_Project\Bank_System_Project\obj\Debug\net9.0\Bank_System_Project.pdb
+D:\New folder\MNF3_SWD5_S2\Bank_System_Project\Bank_System_Project\obj\Debug\net9.0\Bank_System_Project.genruntimeconfig.cache
+D:\New folder\MNF3_SWD5_S2\Bank_System_Project\Bank_System_Project\obj\Debug\net9.0\ref\Bank_System_Project.dll
