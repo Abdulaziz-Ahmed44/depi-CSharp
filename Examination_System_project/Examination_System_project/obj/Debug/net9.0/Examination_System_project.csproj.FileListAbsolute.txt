@@ -1,0 +1,14 @@
+D:\New folder\MNF3_SWD5_S2\Examination_System_project\Examination_System_project\bin\Debug\net9.0\Examination_System_project.exe
+D:\New folder\MNF3_SWD5_S2\Examination_System_project\Examination_System_project\bin\Debug\net9.0\Examination_System_project.deps.json
+D:\New folder\MNF3_SWD5_S2\Examination_System_project\Examination_System_project\bin\Debug\net9.0\Examination_System_project.runtimeconfig.json
+D:\New folder\MNF3_SWD5_S2\Examination_System_project\Examination_System_project\bin\Debug\net9.0\Examination_System_project.dll
+D:\New folder\MNF3_SWD5_S2\Examination_System_project\Examination_System_project\bin\Debug\net9.0\Examination_System_project.pdb
+D:\New folder\MNF3_SWD5_S2\Examination_System_project\Examination_System_project\obj\Debug\net9.0\Examination_System_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\MNF3_SWD5_S2\Examination_System_project\Examination_System_project\obj\Debug\net9.0\Examination_System_project.AssemblyInfoInputs.cache
+D:\New folder\MNF3_SWD5_S2\Examination_System_project\Examination_System_project\obj\Debug\net9.0\Examination_System_project.AssemblyInfo.cs
+D:\New folder\MNF3_SWD5_S2\Examination_System_project\Examination_System_project\obj\Debug\net9.0\Examination_System_project.csproj.CoreCompileInputs.cache
+D:\New folder\MNF3_SWD5_S2\Examination_System_project\Examination_System_project\obj\Debug\net9.0\Examination_System_project.dll
+D:\New folder\MNF3_SWD5_S2\Examination_System_project\Examination_System_project\obj\Debug\net9.0\refint\Examination_System_project.dll
+D:\New folder\MNF3_SWD5_S2\Examination_System_project\Examination_System_project\obj\Debug\net9.0\Examination_System_project.pdb
+D:\New folder\MNF3_SWD5_S2\Examination_System_project\Examination_System_project\obj\Debug\net9.0\Examination_System_project.genruntimeconfig.cache
+D:\New folder\MNF3_SWD5_S2\Examination_System_project\Examination_System_project\obj\Debug\net9.0\ref\Examination_System_project.dll
