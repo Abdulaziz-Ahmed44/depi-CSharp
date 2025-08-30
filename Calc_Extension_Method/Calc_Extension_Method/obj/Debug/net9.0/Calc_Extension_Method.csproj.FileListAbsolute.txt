@@ -1,0 +1,14 @@
+D:\New folder\MNF3_SWD5_S2\Calc_Extension_Method\Calc_Extension_Method\bin\Debug\net9.0\Calc_Extension_Method.exe
+D:\New folder\MNF3_SWD5_S2\Calc_Extension_Method\Calc_Extension_Method\bin\Debug\net9.0\Calc_Extension_Method.deps.json
+D:\New folder\MNF3_SWD5_S2\Calc_Extension_Method\Calc_Extension_Method\bin\Debug\net9.0\Calc_Extension_Method.runtimeconfig.json
+D:\New folder\MNF3_SWD5_S2\Calc_Extension_Method\Calc_Extension_Method\bin\Debug\net9.0\Calc_Extension_Method.dll
+D:\New folder\MNF3_SWD5_S2\Calc_Extension_Method\Calc_Extension_Method\bin\Debug\net9.0\Calc_Extension_Method.pdb
+D:\New folder\MNF3_SWD5_S2\Calc_Extension_Method\Calc_Extension_Method\obj\Debug\net9.0\Calc_Extension_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\MNF3_SWD5_S2\Calc_Extension_Method\Calc_Extension_Method\obj\Debug\net9.0\Calc_Extension_Method.AssemblyInfoInputs.cache
+D:\New folder\MNF3_SWD5_S2\Calc_Extension_Method\Calc_Extension_Method\obj\Debug\net9.0\Calc_Extension_Method.AssemblyInfo.cs
+D:\New folder\MNF3_SWD5_S2\Calc_Extension_Method\Calc_Extension_Method\obj\Debug\net9.0\Calc_Extension_Method.csproj.CoreCompileInputs.cache
+D:\New folder\MNF3_SWD5_S2\Calc_Extension_Method\Calc_Extension_Method\obj\Debug\net9.0\Calc_Extension_Method.dll
+D:\New folder\MNF3_SWD5_S2\Calc_Extension_Method\Calc_Extension_Method\obj\Debug\net9.0\refint\Calc_Extension_Method.dll
+D:\New folder\MNF3_SWD5_S2\Calc_Extension_Method\Calc_Extension_Method\obj\Debug\net9.0\Calc_Extension_Method.pdb
+D:\New folder\MNF3_SWD5_S2\Calc_Extension_Method\Calc_Extension_Method\obj\Debug\net9.0\Calc_Extension_Method.genruntimeconfig.cache
+D:\New folder\MNF3_SWD5_S2\Calc_Extension_Method\Calc_Extension_Method\obj\Debug\net9.0\ref\Calc_Extension_Method.dll
